@@ -1,7 +1,7 @@
 
 # Vítej v&nbsp;lednové Java Akademii 2022 👋
 
-<p align="center">
+<p style="text-align: center">
   <img src="https://engeto.cz/wp-content/uploads/2019/01/engeto-square.png" width="200" height="200">
 </p>
 <!--<p align="center">
