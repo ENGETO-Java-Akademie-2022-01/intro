@@ -104,7 +104,7 @@
   - Čistý kód, refaktoring
   - Debugging
   - Ukázka &mdash; Jira
-  - _Konzultace čtvrtek 7.4.2021 20:00._
+  - _Konzultace čtvrtek 7.4.2022 20:00._
 ### 11. [Databáze v Javě (11.4.2022)](https://github.com/ENGETO-Java-Akademie-2022-01/content/tree/main/lekce_11)
   - Práce s existující databází v&nbsp;Javě
   - Konstruktory, třídní atributy a metody (```static```)
