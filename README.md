@@ -1,9 +1,12 @@
 
 # Vítej v&nbsp;lednové Java Akademii 2022 👋
 
-<p style="text-align: center">
+<p align="center">
   <img src="https://engeto.cz/wp-content/uploads/2019/01/engeto-square.png" width="200" height="200">
 </p>
+<!-- Zarovnání pomocí stylů na GitHubu nefunguje, je potřeba použít
+     atribut align.
+-->
 <!--<p align="center">
   <img alt="engeto-logo" width="80px" src="https://engeto.cz/wp-content/uploads/2019/01/engeto-square.png" />
   <img alt="python-logo" width="70px" src="https://hackaday.com/wp-content/uploads/2019/09/python-logo.png" />
@@ -22,7 +25,7 @@
 ### Další materiály
 - [Řešení úkolů](https://github.com/ENGETO-Java-Akademie-2022-01/ukoly-a-reseni)
 - [Kód z hodin](https://github.com/ENGETO-Java-Akademie-2022-01/kod-z-hodin)
-- Odkaz na [WebEx: on-line hodiny a konzultace](https://engeto.my.webex.com/engeto.my/j.php?MTID=mae40d5ba414dd4dbb5a227ad60fdc0da&launchApp=true)
+- Odkaz na WebEx: [on-line hodiny a konzultace](https://engeto.my.webex.com/engeto.my/j.php?MTID=mae40d5ba414dd4dbb5a227ad60fdc0da&launchApp=true)
 
 ---
 
