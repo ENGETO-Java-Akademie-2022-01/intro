@@ -33,43 +33,43 @@
 
 
 ## 🐌 Úvod do programování v Javě
-### 1. [Úvod (4.10.2021)](https://github.com/ENGETO-Java-Akademie-2022-01/lekce_01)
+### 1. [Úvod (31. 1. 2022)](https://github.com/ENGETO-Java-Akademie-2022-01/lekce_01)
 - Intro o&nbsp;akademii
 - Jazyk Java, první program
 - Proměnné a&nbsp;datové typy
-- _Konzultace čtvrtek 7.10.2021 20:00._
-### 2. [Popis dat (11.10.2021)](https://github.com/ENGETO-Java-Akademie-2022-01/content/tree/main/lekce_02)
+- _Konzultace čtvrtek 3.2.2022 20:00._
+### 2. [Popis dat (7.2.2022)](https://github.com/ENGETO-Java-Akademie-2022-01/content/tree/main/lekce_02)
 - Objekty, třídy
 - Metody, modifikátory
 - Operátory
 - Kolekce
-- _Konzultace čtvrtek 14.10.2021 20:00._
-### 3. [Zápis algoritmu: podmínky, cykly, výčtový typ (18.10.2021)](https://github.com/ENGETO-Java-Akademie-2022-01/content/tree/main/lekce_03)
+- _Konzultace čtvrtek 10.2.2022 20:00._
+### 3. [Zápis algoritmu: podmínky, cykly, výčtový typ (14.2.2022)](https://github.com/ENGETO-Java-Akademie-2022-01/content/tree/main/lekce_03)
 - Podmínky
 - Cykly
 - Komentáře, dokumentace
 - Výčtový typ (`enum`)
-- _Konzultace čtvrtek 21.10.2021 20:00._
+- _Konzultace čtvrtek 17.2.2022 20:00._
 
 ---
 
 ## 🦅 Psát kód nestačí
-### 4. [Git, GitHub (25.10.2021)](https://github.com/ENGETO-Java-Akademie-2022-01/content/tree/main/lekce_04) <img alt="git-logo" width="20px" src="https://image.freepik.com/free-icon/github-cat-in-a-circle_318-41747.jpg" />
+### 4. [Git, GitHub (21.2.2022)](https://github.com/ENGETO-Java-Akademie-2022-01/content/tree/main/lekce_04) <img alt="git-logo" width="20px" src="https://image.freepik.com/free-icon/github-cat-in-a-circle_318-41747.jpg" />
 - Systémy pro správu verzí, Git
 - GitHub
 - větve (branch), strategie zařazení do main
 - Git a&nbsp;práce v týmu
-- _Konzultace čtvrtek 28.10.2021 20:00._
-### 5. [Soubory, výjimky (1.11.2021)](https://github.com/ENGETO-Java-Akademie-2022-01/content/tree/main/lekce_05)
+- _Konzultace čtvrtek 24.2.2022 20:00._
+### 5. [Soubory, výjimky (28.2.2022)](https://github.com/ENGETO-Java-Akademie-2022-01/content/tree/main/lekce_05)
 - Výjimky a ošetření chyb
 - Práce se soubory
 - Parsování textového souboru
-- _Konzultace čtvrtek 4.11.2021 20:00._
-### 6. [Kolekce, pole (8.11.2021)](https://github.com/ENGETO-Java-Akademie-2022-01/content/tree/main/lekce_06)
+- _Konzultace čtvrtek 3.3.2022 20:00._
+### 6. [Kolekce, pole (7.3.2022)](https://github.com/ENGETO-Java-Akademie-2022-01/content/tree/main/lekce_06)
 - Operace nad kolekcemi
 - Pole
 - Zadání prvního projektu
-- _Konzultace čtvrtek 11.11.2021 20:00._
+- _Konzultace čtvrtek 10.3.2021 20:00._
 
 ---
 
@@ -79,42 +79,42 @@
 
 ## 🔥 Pojďme dál
 
-### 7. [Automatizace překladu (15.11.2021)](https://github.com/ENGETO-Java-Akademie-2022-01/content/tree/main/lekce_07)
+### 7. [Automatizace překladu (14.3.2022)](https://github.com/ENGETO-Java-Akademie-2022-01/content/tree/main/lekce_07)
   - IDE pro Git + opakování operací
   - Maven
   - Automatizace testování
-  - _Konzultace čtvrtek 18.11.2021 20:00._
-### 8. [OOP podrobněji (22.11.2021)](https://github.com/ENGETO-Java-Akademie-2022-01/content/tree/main/lekce_08)
+  - _Konzultace čtvrtek 17.3.2022 20:00._
+### 8. [OOP podrobněji (21.3.2022)](https://github.com/ENGETO-Java-Akademie-2022-01/content/tree/main/lekce_08)
   - Zapouzdření, balíčky, final
   - Konstruktory, třídní atributy a metody (```static```)
   - Dědičnost, rozhraní
-  - _Konzultace čtvrtek 25.11.2021 20:00._
-### 9. [Časová složitost, mapy, vlákna (29.11.2021)](https://github.com/ENGETO-Java-Akademie-2022-01/content/tree/main/lekce_09)
+  - _Konzultace čtvrtek 24.3.2022 20:00._
+### 9. [Časová složitost, mapy, vlákna (28.3.2022)](https://github.com/ENGETO-Java-Akademie-2022-01/content/tree/main/lekce_09)
   - Časová složitost algoritmů
   - Výběr kolekce a&nbsp;časová složitost
   - Práce s vlákny (thread)
-  - _Konzultace čtvrtek 2.12.2021 20:00._
+  - _Konzultace čtvrtek 31.3.2022 20:00._
 
 ---
 
 ## ⚒ Databáze a API
 
-### 10. [Úvod do databází, čistý kód (6.12.2021)](https://github.com/ENGETO-Java-Akademie-2022-01/content/tree/main/lekce_10)
+### 10. [Úvod do databází, čistý kód (4.4.2022)](https://github.com/ENGETO-Java-Akademie-2022-01/content/tree/main/lekce_10)
   - Úvod do databází
   - Čistý kód, refaktoring
   - Debugging
   - Ukázka &mdash; Jira
-  - _Konzultace čtvrtek 9.12.2021 20:00._
-### 11. [Databáze v Javě (13.12.2021)](https://github.com/ENGETO-Java-Akademie-2022-01/content/tree/main/lekce_11)
+  - _Konzultace čtvrtek 7.4.2021 20:00._
+### 11. [Databáze v Javě (11.4.2022)](https://github.com/ENGETO-Java-Akademie-2022-01/content/tree/main/lekce_11)
   - Práce s existující databází v&nbsp;Javě
   - Konstruktory, třídní atributy a metody (```static```)
   - Dědičnost, rozhraní
-  - _Konzultace čtvrtek 16.12.2021 20:00._
-### 12. [API (20.12.2021)](https://github.com/ENGETO-Java-Akademie-2022-01/content/tree/main/lekce_12)
+  - _Konzultace čtvrtek 14.4.2022 20:00._
+### 12. [API (18.4.2022)](https://github.com/ENGETO-Java-Akademie-2022-01/content/tree/main/lekce_12)
   - Co je API?
   - Ukázka projektu s API
   - Zadání projektu
-  - _Konzultace čtvrtek 23.12.2021 20:00._
+  - _Konzultace čtvrtek 21.4.2022 20:00._
 
 ---
 
