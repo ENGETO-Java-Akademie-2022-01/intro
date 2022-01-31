@@ -24,7 +24,9 @@ Prozatím nám budou stačit:
 	- Na GitHubu také budeš mít osnovu materiálů.
 
 ## Návod na instalaci nástrojů
-Návod na instalaci JDK a&nbsp;IntelliJ IDEA najdeš v&nbsp;kurzu [Java #1 na portále Learn.Engeto.com](https://learn.engeto.com/cs/kurz/java-1-uvod-do-programovani/studium/m_TDBn4hQyyJ7Hp2uFS5Sw/zaciname-s-javou/priprava-prostredi/stazeni-oracle-jdk)
+Návod na instalaci JDK a&nbsp;IntelliJ IDEA najdeš v&nbsp;kurzu [Java #1 na portále Learn.Engeto.com](https://learn.engeto.com/cs/kurz/java-akademie-priprava)
+	
+<!-- https://learn.engeto.com/cs/kurz/java-1-uvod-do-programovani/studium/m_TDBn4hQyyJ7Hp2uFS5Sw/zaciname-s-javou/priprava-prostredi/stazeni-oracle-jdk -->
 
 ## Vytvoření účtu na GitHubu
 - Jdi na stránku: https://github.com/
