@@ -23,7 +23,7 @@
 - Co a jak si nainstalovat?
 
 ### Další materiály
-<!-- - [Řešení úkolů](https://github.com/ENGETO-Java-Akademie-2022-01/ukoly-a-reseni)-->
+- [Domácí úkoly](https://github.com/ENGETO-Java-Akademie-2022-01/ukoly-a-reseni)
 - [Kód z hodin](https://github.com/ENGETO-Java-Akademie-2022-01/kod-z-hodin)
 - Odkaz na WebEx: [on-line hodiny a konzultace](https://engeto.my.webex.com/engeto.my/j.php?MTID=mae40d5ba414dd4dbb5a227ad60fdc0da&launchApp=true)
 
