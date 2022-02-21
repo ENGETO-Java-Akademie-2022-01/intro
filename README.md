@@ -56,10 +56,10 @@
 
 ## 🦅 Psát kód nestačí
 ### 4. [Git, GitHub (21.2.2022)](https://github.com/ENGETO-Java-Akademie-2022-01/content/tree/main/lekce_04) <img alt="git-logo" width="20px" src="https://image.freepik.com/free-icon/github-cat-in-a-circle_318-41747.jpg" />
-- Systémy pro správu verzí, Git
-- GitHub
-- větve (branch), strategie zařazení do main
-- Git a&nbsp;práce v týmu
+- Orientace: systémy pro správu verzí, Git, GitHub, proč Git Bash
+- Základ práce s&nbsp;repozitářem v&nbsp;příkazovém řádku
+- Pokročilejší: práce s&nbsp;historií, větve (branch), strategie zařazení do main
+- Git a&nbsp;práce v týmu: _GitHub Flow_ a _Pull request_
 - _Konzultace čtvrtek 24.2.2022 20:00._
 ### 5. [Soubory, výjimky (28.2.2022)](https://github.com/ENGETO-Java-Akademie-2022-01/content/tree/main/lekce_05)
 - Výjimky a ošetření chyb
